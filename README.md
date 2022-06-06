@@ -1,2 +1,2 @@
 # Awsier
-A powershell scrip to export api end point details from available gateways in AWS.
+A powershell script to export api end points as swagger documentation from AWS gateways which can be used in Postman or other tools for verrification.
